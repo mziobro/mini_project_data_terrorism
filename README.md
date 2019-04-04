@@ -17,8 +17,9 @@ Project use libraries:
 
 Clone repository by using command: 
 
+$ git clone https://github.com/mziobro/mini_project_data_terrorism.git
 
-
+or download as zip from master.
 
 ### Data
 
